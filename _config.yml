@@ -1,7 +1,7 @@
 name: demo
 favicon: null
-layout_spectrum: 0.676852225093171
-typography_spectrum: 0.2566270879469812
+layout_spectrum: 1
+typography_spectrum: 0.19993
 title: Blog; Carson Longhorn (Gadjet)
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.44827771722339094
+  brandStrength: 0.4375
   lightness: 0.3586975699290633
   saturation: 0.4372917066793889
   rhythmicContrast: 0.633975273463875
