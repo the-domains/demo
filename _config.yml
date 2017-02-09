@@ -1,4 +1,4 @@
-name: demo
+name: Blog; Carson Longhorn (Gadjet)
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.19993
@@ -27,3 +27,12 @@ color:
   saturation: 0.4372917066793889
   rhythmicContrast: 0.633975273463875
 purpose: []
+content: []
+github: true
+url: 'https://blog.longhorn.id.au'
+content_rating:
+  adult: false
+author:
+  name: Carson Longhorn
+  email: blogmail@unrelated.net.au
+  url: 'https://longhorn.id.au'
